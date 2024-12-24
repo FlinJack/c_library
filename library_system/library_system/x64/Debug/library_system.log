@@ -1,0 +1,6 @@
+﻿  library.c
+D:\desktop\ALL\ALLwork\library_system\library_system\library.c(51,5): warning C4102: “a”: 未引用的标签
+D:\desktop\ALL\ALLwork\library_system\library_system\library.c(212,28): warning C4013: “strcspn”未定义；假设外部返回 int
+D:\desktop\ALL\ALLwork\library_system\library_system\library.c(381,13): warning C4013: “strcmp”未定义；假设外部返回 int
+D:\desktop\ALL\ALLwork\library_system\library_system\library.c(394,5): warning C4013: “exit”未定义；假设外部返回 int
+  library_system.vcxproj -> D:\desktop\ALL\ALLwork\library_system\x64\Debug\library_system.exe

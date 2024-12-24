@@ -1,0 +1,100 @@
+1,Data Structures and Algorithms, Wang Xiaoming,1
+2,C Programming Language, Brian Kernighan,0
+3,Introduction to Algorithms, Thomas H. Cormen,0
+4,Introduction to Algorithms, Thomas H. Cormen,0
+5,Computer Networks, Google,0
+6,Artificial Intelligence: A Modern Approach, Stuart Russell,0
+7,Machine Learning, Zhou Zhihua,0
+8,Machine Learning, Zhou Zhihua,0
+9,Deep Learning, Ian Goodfellow,0
+10,Algorithms, Robert Sedgewick,0
+11,The Art of Computer Programming, Donald Knuth,0
+12,Programming Pearls, Jon Bentley,0
+13,Structure and Interpretation of Computer Programs, Harold Abelson,0
+14,Design Patterns, Erich Gamma,0
+15,Introduction to the Theory of Computation, Michael Sipser,0
+16,Operating System Concepts, Abraham Silberschatz,0
+17,Artificial Intelligence, George F. Luger,0
+18,Learning Python, Mark Lutz,0
+19,Python Cookbook, David Beazley,0
+20,Python for Data Analysis, Wes McKinney,0
+21,The Pragmatic Programmer, Andrew Hunt,0
+22,Clean Code, Robert C. Martin,0
+23,Refactoring, Martin Fowler,0
+24,The Mythical Man-Month, Frederick P. Brooks,0
+25,Code Complete, Steve McConnell,0
+26,The C Programming Language, Brian Kernighan,0
+27,The Algorithm Design Manual, Steven S. Skiena,0
+28,Advanced Programming in the UNIX Environment, W. Richard Stevens,0
+29,Unix Network Programming, W. Richard Stevens,0
+30,Introduction to the Theory of Computation, Michael Sipser,0
+31,Data Science for Business, Foster Provost,0
+32,The Data Warehouse Toolkit, Ralph Kimball,0
+33,The Data Science Handbook, Carl Shan,0
+34,Python Machine Learning, Sebastian Raschka,0
+35,Deep Learning with Python, François Chollet,0
+36,Practical Data Science with R, Nina Zumel,0
+37,Introduction to Machine Learning with Python, Andreas C. Müller,0
+38,Pattern Recognition and Machine Learning, Christopher M. Bishop,0
+39,The Hundred-Page Machine Learning Book, Andriy Burkov,0
+40,Design and Analysis of Algorithms, Alfred V. Aho,0
+41,Competitive Programming, Steven Halim,0
+42,Game Programming Patterns, Robert Nystrom,0
+43,JavaScript: The Good Parts, Douglas Crockford,0
+44,JavaScript: The Definitive Guide, David Flanagan,0
+45,Node.js Design Patterns, Mario Casciaro,0
+46,Modern C++ Design, Andrei Alexandrescu,0
+47,Programming in C, Stephen G. Kochan,0
+48,Learning SQL, Alan Beaulieu,0
+49,Java Concurrency in Practice, Brian Goetz,0
+50,The C++ Programming Language, Bjarne Stroustrup,0
+51,MySQL for Data Analysis, Jeffry B. Walden,0
+52,Database System Concepts, Abraham Silberschatz,0
+53,Data Structures and Algorithms in C++, Adam Drozdek,0
+54,HTML and CSS: Design and Build Websites, Jon Duckett,0
+55,JavaScript and JQuery, Jon Duckett,0
+56,React Up and Running, Stoyan Stefanov,0
+57,Angular Up and Running, Shyam Seshadri,0
+58,Python for Everybody, Charles Severance,0
+59,The Hitchhiker's Guide to Python, Kenneth Reitz,0
+60,Foundations of Python Network Programming, John Goerzen,0
+61,Data Structures and Algorithms in Python, Michael T. Goodrich,0
+62,The Rust Programming Language, Steve Klabnik,0
+63,Learning Java, Patrick Niemeyer,0
+64,Spring in Action, Craig Walls,0
+65,Head First Java, Kathy Sierra,0
+66,The Go Programming Language, Alan A. A. Donovan,0
+67,Go in Action, William Kennedy,0
+68,Rust Programming By Example, Guillaume Gomez,0
+69,Python Testing with pytest, Brian Okken,0
+70,Fluent Python, Luciano Ramalho,0
+71,Learning SQL, Alan Beaulieu,0
+72,SQL in 10 Minutes, Sams Publishing,0
+73,Data Science from Scratch, Joel Grus,0
+74,Introduction to Computational Thinking, John V. Guttag,0
+75,Fundamentals of Machine Learning for Predictive Data Analytics, John D. Kelleher,0
+76,Artificial Intelligence: Foundations of Computational Agents, David L. Poole,0
+77,Machine Learning Yearning, Andrew Ng,0
+78,Hands-On Machine Learning with Scikit-Learn, Aurélien Géron,0
+79,Deep Reinforcement Learning Hands-On, Maxim Lapan,0
+80,Python Data Science Handbook, Jake VanderPlas,0
+81,Mastering Algorithms with C, Kyle Loudon,0
+82,Data Structures and Algorithms in JavaScript, Michael McMillan,0
+83,Data Structures and Algorithms in Java, Robert Lafore,0
+84,SQL for Data Scientists, Renee M. P. Teate,0
+85,Machine Learning in Action, Peter Harrington,0
+86,The Deep Learning Revolution, Terrence J. Sejnowski,0
+87,Mastering JavaScript, Ved Antani,0
+88,Design Patterns in Python, Chetan Giridhar,0
+89,Core Java Volume I, Cay S. Horstmann,0
+90,Java Design Patterns, Vaskaran Sarcar,0
+91,Learning JavaScript Design Patterns, Addy Osmani,0
+92,Effective Java, Joshua Bloch,0
+93,The Complete Software Developer's Career Guide, John Sonmez,0
+94,Computer Organization and Design, David A. Patterson,0
+95,Introduction to Computational Biology, Richard Durbin,0
+96,The Art of Computer Systems Performance Analysis, Raj Jain,0
+97,Algorithms on Strings  Trees  and Se quences, Dan Gusfield,0
+98,Software Engineering: A Practitioner's Approach, Roger S. Pressman,0
+99,Modern Operating Systems, Andrew S. Tanenbaum,0
+100,Database Management Systems, Raghu Ramakrishnan,0
